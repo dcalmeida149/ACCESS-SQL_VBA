@@ -6,7 +6,6 @@
 'Tenha em mente que essa é uma implementação básica, é importante tratar os erros e adicionar validação dos dados, além disso, é recomendado usar 
 'parametrização de query para evitar possíveis vulnerabilidades de SQL injection.
 
-'by Daniel Almeida - dcalmeida@ibm.com
 
 Sub CarregarFormSQL()
     Dim Cn As ADODB.Connection
